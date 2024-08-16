@@ -76,4 +76,4 @@ jobs:
           # Comment this and the with: above out for performance testing on a branch
           cache-read-only: ${{ github.ref != 'refs/heads/main' }}
       - name: Build Example App
-        run: ./gradlew :kotlin-audio-example:assembleDebug
+        run: ./gradlew :kotlin-audio-pro-example:assembleDebug
