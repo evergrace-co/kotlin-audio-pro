@@ -18,7 +18,7 @@ minSDK 21
 ### Gradle
 
 ```gradle
-implementation 'com.github.evergrace-co:kotlinaudio:v2.0.0'
+implementation 'com.github.evergrace-co:kotlinaudio:0.0.1'
 ```
 
 ## Usage
